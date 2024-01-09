@@ -1,2 +1,2 @@
 # reShut-Legacy
-A repository to support updates. 
+A repository to support updates for older versions of reShut-Legacy. 
